@@ -7,6 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h1>从session中获取数据</h1>
+<%
+    String s=(String)session.getAttribute("aaa");
+%>
+<%=
+s
+%>
 
 </body>
 </html>

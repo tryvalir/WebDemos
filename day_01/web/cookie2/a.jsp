@@ -13,6 +13,9 @@
 Cookie cookie1=new Cookie("aaa","AAA");
 cookie1.setMaxAge(60*60);
 response.addCookie(cookie1);
+Cookie cookie2=new Cookie("aaa","AAA");
+cookie2.setMaxAge(60*60);
+response.addCookie(cookie2);
 
 
 

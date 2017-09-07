@@ -8,6 +8,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>从session中获取数据</h1>
+<h1>向session中传数据</h1>
+<%
+    //HttpSession session= request.getSession();
+    session.setAttribute("aaa","AAA");
+%>
 </body>
 </html>
