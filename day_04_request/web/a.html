@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>演示get请求解码和post请求解码</title>
+</head>
+<body>
+<form action="/day_04_request/ThreeServlet" method="post">
+   用户名： <input type="text" name="username">
+    <input type="submit" value="提交">
+</form>
+<a href="/day_04_request/ThreeServlet?username=李四">GET方法传给服务端username的中文字符值</a>
+</body>
+</html>
