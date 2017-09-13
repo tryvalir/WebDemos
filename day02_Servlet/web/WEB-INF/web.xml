@@ -39,6 +39,22 @@
         <servlet-name>GServlet</servlet-name>
         <servlet-class>servlet.GServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>HServlet</servlet-name>
+        <servlet-class>servlet.HServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>IServlet</servlet-name>
+        <servlet-class>servlet.IServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>IServlet</servlet-name>
+        <url-pattern>/IServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>HServlet</servlet-name>
+        <url-pattern>/HServlet</url-pattern>
+    </servlet-mapping>
     <servlet-mapping>
         <servlet-name>GServlet</servlet-name>
         <url-pattern>/GServlet</url-pattern>
