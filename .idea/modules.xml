@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/day_03_response/day_03_response.iml" filepath="$PROJECT_DIR$/day_03_response/day_03_response.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_04_request/day_04_request.iml" filepath="$PROJECT_DIR$/day_04_request/day_04_request.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_05_Filter/day_05_Filter.iml" filepath="$PROJECT_DIR$/day_05_Filter/day_05_Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encode_demo/encode_demo.iml" filepath="$PROJECT_DIR$/encode_demo/encode_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filter_listener_demo1/filter_listener_demo1.iml" filepath="$PROJECT_DIR$/filter_listener_demo1/filter_listener_demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filter_listener_demo2/filter_listener_demo2.iml" filepath="$PROJECT_DIR$/filter_listener_demo2/filter_listener_demo2.iml" />
     </modules>
   </component>
 </project>

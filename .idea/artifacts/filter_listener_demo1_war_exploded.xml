@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="filter_listener_demo1:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/filter_listener_demo1_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="filter_listener_demo1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/filter_listener_demo1/web/WEB-INF/lib/jstl.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/filter_listener_demo1/web/WEB-INF/lib/standard.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="filter_listener_demo1/web/Web" />
+    </root>
+  </artifact>
+</component>

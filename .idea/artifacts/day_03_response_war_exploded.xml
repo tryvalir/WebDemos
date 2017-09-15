@@ -7,6 +7,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="day_03_response" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="application_server_libraries" name="Tomcat 7.0.81" />
+        </element>
       </element>
     </root>
   </artifact>
